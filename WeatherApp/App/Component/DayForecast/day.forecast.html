@@ -1,0 +1,22 @@
+﻿
+
+<span class="row">{{$ctrl.GetWeekDay($ctrl.forecast.Date)}}</span>
+<br />
+<span class="row">{{$ctrl.forecast.Description}}</span>
+<br />
+<span class="row temperatureAndImage">
+    <img style="float: left; height: 64px; width: 64px" alt="{{$ctrl.forecast.Description}}"
+         src="//ssl.gstatic.com/onebox/weather/64/{{$ctrl.GetImageName($ctrl.forecast.Description)}}.png">
+    <div class="temperature">{{$ctrl.forecast.DaytimeHigh}}</div>
+    <div class="vk_bk wob-unit" style="float: left; font-size: 16px; margin-top: 6px">
+        <span style="display: inline" aria-label="°Celsius">°C</span>
+        &nbsp;|&nbsp;
+        <a href="javascript:void(0)" style="display: inline; text-decoration: none; margin-left: -1px" >
+            <span aria-label="°Fahrenheit">°F</span>
+        </a>
+    </div>
+</span>
+
+Precipiation{{$ctrl.forecast.ProbabilityOfPrecipiation}}<br />
+Humidity {{$ctrl.weather.RelativeHumidity}}<br />
+Wind {{$ctrl.weather.Wind}}<br />

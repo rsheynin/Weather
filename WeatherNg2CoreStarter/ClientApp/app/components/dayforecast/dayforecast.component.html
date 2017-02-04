@@ -1,0 +1,32 @@
+<div class="dayForecast">
+    <div *ngIf="forecast">
+        <span class="row">{{GetWeekDay(forecast.date)}}</span>
+        <br />
+        <span class="row">{{forecast.description}}</span>
+        <br />
+        <div class="row temperatureAndImage">
+            <img style="float: left; height: 64px; width: 64px" alt="{{forecast.description}}"
+                 src="//ssl.gstatic.com/onebox/weather/64/{{GetImageName(forecast.description)}}.png">
+            <div class="temperature">{{GetTemperatureByUnit(forecast.daytimeHigh)}}</div>
+            <div class="vk_bk wob-unit" style="float: left; font-size: 16px; margin-top: 6px" *ngIf="temperatureUnit=='C'">
+                <span style="display: inline" aria-label="Celsius" (click)="ChangeTemperatureUnit('C')">C</span>
+                &nbsp;|&nbsp;
+                <a href="javascript:void(0)" style="display: inline; text-decoration: none; margin-left: -1px" (click)="ChangeTemperatureUnit('F')">
+                    <span aria-label="Fahrenheit">F</span>
+                </a>
+            </div>
+
+            <div class="vk_bk wob-unit" style="float: left; font-size: 16px; margin-top: 6px; width:45px" *ngIf="temperatureUnit=='F'">
+                <a href="javascript:void(0)" style="display: inline; text-decoration: none; margin-left: -1px" (click)="ChangeTemperatureUnit('C')">
+                    <span aria-label="Celsius">C</span>
+                </a>                
+                &nbsp;|&nbsp;
+                <span style="display: inline" aria-label="Fahrenheit" (click)="ChangeTemperatureUnit('F')">F</span>
+            </div>
+
+        </div>
+    </div>
+    Precipiation {{forecast.probabilityOfPrecipiation}}<br />
+    Humidity {{weather.relativeHumidity}}<br />
+    Wind {{weather.wind}}<br />
+</div>

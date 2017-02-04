@@ -1,0 +1,14 @@
+﻿
+
+<div class="weekDayForecast">
+
+    <span class="row" style="text-align: center; width: 100%">{{$ctrl.GetWeekDay($ctrl.forecast.Date)}}</span>
+    <img style="float: left; height: 48px; width: 48px" alt="{{$ctrl.forecast.Description}}"
+         src="//ssl.gstatic.com/onebox/weather/48/{{$ctrl.GetImageName($ctrl.forecast.Description)}}.png">
+
+    <span class="row" style="text-align: center; width: 100%">{{$ctrl.forecast.MorningLow}} {{$ctrl.forecast.DaytimeHigh}}</span>
+
+       
+</div>
+
+

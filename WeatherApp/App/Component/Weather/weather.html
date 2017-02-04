@@ -1,0 +1,9 @@
+﻿<div class="weather">
+    <div >{{$ctrl.City.city}}</div>
+    <day-forecast forecast="$ctrl.Weather.WeeklyForecast[$ctrl.SelectedDayIndex]" weather="$ctrl.Weather"></day-forecast>
+
+    <weekly-forecast-graph  weeklyforecast="$ctrl.Weather.WeeklyForecast"></weekly-forecast-graph>
+
+
+    <weekly-forecast class="weeklyforecast" weeklyforecast="$ctrl.Weather.WeeklyForecast" selecteddayindex="$ctrl.SelectedDayIndex"></weekly-forecast>
+</div >

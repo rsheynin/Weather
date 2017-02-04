@@ -1,0 +1,47 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Page Title</title>
+
+    <link rel="stylesheet" href="http://cdn.oesmith.co.uk/morris-0.4.3.min.css">
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+
+    <script src="~/App/Utility.js"></script>
+    <script src="~/Scripts/angular.js"></script>
+
+    <script src="//cdnjs.cloudflare.com/ajax/libs/raphael/2.1.0/raphael-min.js"></script>
+    <script src="http://cdn.oesmith.co.uk/morris-0.4.3.js"></script>
+
+    <script src="~/Scripts/angular-route.js"></script>
+
+    <script src="~/App/app.module.js"></script>
+    <script src="~/App/app.config.js"></script>
+
+    <script src="~/App/Directive/linechart.directive.js"></script>
+
+    <script src="~/App/Component/Cities/cities.module.js"></script>
+    <script src="~/App/Component/Cities/cities.component.js"></script>
+
+    <script src="~/App/Component/Weather/weather.module.js"></script>
+    <script src="~/App/Component/Weather/weather.component.js"></script>
+
+    <script src="~/App/Component/DayForecast/day.forecast.module.js"></script>
+    <script src="~/App/Component/DayForecast/day.forecast.component.js"></script>
+
+    <script src="~/App/Component/WeeklyForecastGraph/weekly.forecast.graph.module.js"></script>
+    <script src="~/App/Component/WeeklyForecastGraph/weekly.forecast.graph.component.js"></script>
+
+    <script src="~/App/Component/WeeklyForecast/weekly.forecast.module.js"></script>
+    <script src="~/App/Component/WeeklyForecast/weekly.forecast.component.js"></script>
+
+    <script src="~/App/Component/WeeklyDayForecast/weekly.day.forecast.module.js"></script>
+    <script src="~/App/Component/WeeklyDayForecast/weekly.day.forecast.component.js"></script>
+
+    <link href="~/App/CSS/site.css" rel="stylesheet" />
+</head>
+<body ng-app="app">
+    <div class="view-animate-container">
+        <div ng-view class="view-animate"></div>
+    </div>
+</body>
+</html>

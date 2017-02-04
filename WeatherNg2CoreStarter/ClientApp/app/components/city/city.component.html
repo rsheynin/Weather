@@ -1,0 +1,15 @@
+<div class="cities">
+    <div class="cityHeader">The Forecast for the next week...</div>
+    <br />
+    <span class="cityInputLable">Enter City Name</span>
+    <br/>
+        <input [(ngModel)]="cityName" (keyup)=GetCities() />
+        <br />
+        <ul *ngIf="cities">
+            <li *ngFor="let city of cities">
+                <a href="/weather/{{city.zip}}">
+                    {{city.city}}
+                </a>
+            </li>
+        </ul>
+</div>

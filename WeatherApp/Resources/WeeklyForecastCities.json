@@ -1,0 +1,857 @@
+﻿[
+  {
+    "ZipCode": "36101",
+    "Temperature": "19",
+    "Wind": "25 km/h",
+    "RelativeHumidity": "61%",
+    "WeeklyForecast": [
+      {
+        "Date": "20/10/2016",
+        "Description": "Sunny",
+        "MorningLow": "22",
+        "DaytimeHigh": "30",
+        "ProbabilityOfPrecipiation": "0%"
+      },
+      {
+        "Date": "19/10/2016",
+        "Description": "Sunny",
+        "MorningLow": "26",
+        "DaytimeHigh": "35",
+        "ProbabilityOfPrecipiation": "0%"
+      },
+      {
+        "Date": "18/10/2016",
+        "Description": "Rainy",
+        "MorningLow": "9",
+        "DaytimeHigh": "15",
+        "ProbabilityOfPrecipiation": "90%"
+      },
+      {
+        "Date": "17/10/2016",
+        "Description": "Rainy",
+        "MorningLow": "11",
+        "DaytimeHigh": "16",
+        "ProbabilityOfPrecipiation": "50%"
+      },
+      {
+        "Date": "16/10/2016",
+        "Description": "cloudy",
+        "MorningLow": "13",
+        "DaytimeHigh": "19",
+        "ProbabilityOfPrecipiation": "25%"
+      },
+      {
+        "Date": "15/10/2016",
+        "Description": "cloudy",
+        "MorningLow": "12",
+        "DaytimeHigh": "18",
+        "ProbabilityOfPrecipiation": "30%"
+      },
+      {
+        "Date": "14/10/2016",
+        "Description": "Sunny",
+        "MorningLow": "23",
+        "DaytimeHigh": "31",
+        "ProbabilityOfPrecipiation": "0%"
+      }
+    ]
+  },
+  {
+    "ZipCode": "99801",
+    "Temperature": "19",
+    "Wind": "5 km/h",
+    "RelativeHumidity": "31%",
+    "WeeklyForecast": [
+      {
+        "Date": "20/10/2016",
+        "Description": "Sunny",
+        "MorningLow": "22",
+        "DaytimeHigh": "30",
+        "ProbabilityOfPrecipiation": "0%"
+      },
+      {
+        "Date": "19/10/2016",
+        "Description": "Sunny",
+        "MorningLow": "26",
+        "DaytimeHigh": "35",
+        "ProbabilityOfPrecipiation": "0%"
+      },
+      {
+        "Date": "18/10/2016",
+        "Description": "Rainy",
+        "MorningLow": "9",
+        "DaytimeHigh": "15",
+        "ProbabilityOfPrecipiation": "90%"
+      },
+      {
+        "Date": "17/10/2016",
+        "Description": "Rainy",
+        "MorningLow": "11",
+        "DaytimeHigh": "16",
+        "ProbabilityOfPrecipiation": "50%"
+      },
+      {
+        "Date": "16/10/2016",
+        "Description": "cloudy",
+        "MorningLow": "13",
+        "DaytimeHigh": "19",
+        "ProbabilityOfPrecipiation": "25%"
+      },
+      {
+        "Date": "15/10/2016",
+        "Description": "cloudy",
+        "MorningLow": "12",
+        "DaytimeHigh": "18",
+        "ProbabilityOfPrecipiation": "30%"
+      },
+      {
+        "Date": "14/10/2016",
+        "Description": "Sunny",
+        "MorningLow": "23",
+        "DaytimeHigh": "31",
+        "ProbabilityOfPrecipiation": "0%"
+      }
+    ]
+  },
+  {
+    "ZipCode": "85001",
+    "Temperature": "19",
+    "Wind": "13 km/h",
+    "RelativeHumidity": "25%",
+    "WeeklyForecast": [
+      {
+        "Date": "20/10/2016",
+        "Description": "Sunny",
+        "MorningLow": "22",
+        "DaytimeHigh": "30",
+        "ProbabilityOfPrecipiation": "0%"
+      },
+      {
+        "Date": "19/10/2016",
+        "Description": "Sunny",
+        "MorningLow": "26",
+        "DaytimeHigh": "35",
+        "ProbabilityOfPrecipiation": "0%"
+      },
+      {
+        "Date": "18/10/2016",
+        "Description": "Rainy",
+        "MorningLow": "9",
+        "DaytimeHigh": "15",
+        "ProbabilityOfPrecipiation": "90%"
+      },
+      {
+        "Date": "17/10/2016",
+        "Description": "Rainy",
+        "MorningLow": "11",
+        "DaytimeHigh": "16",
+        "ProbabilityOfPrecipiation": "50%"
+      },
+      {
+        "Date": "16/10/2016",
+        "Description": "cloudy",
+        "MorningLow": "13",
+        "DaytimeHigh": "19",
+        "ProbabilityOfPrecipiation": "25%"
+      },
+      {
+        "Date": "15/10/2016",
+        "Description": "cloudy",
+        "MorningLow": "12",
+        "DaytimeHigh": "18",
+        "ProbabilityOfPrecipiation": "30%"
+      },
+      {
+        "Date": "14/10/2016",
+        "Description": "Sunny",
+        "MorningLow": "23",
+        "DaytimeHigh": "31",
+        "ProbabilityOfPrecipiation": "0%"
+      }
+    ]
+  },
+  {
+    "ZipCode": "72201",
+    "Temperature": "19",
+    "Wind": "45 km/h",
+    "RelativeHumidity": "86%",
+    "WeeklyForecast": [
+      {
+        "Date": "20/10/2016",
+        "Description": "Sunny",
+        "MorningLow": "22",
+        "DaytimeHigh": "30",
+        "ProbabilityOfPrecipiation": "0%"
+      },
+      {
+        "Date": "19/10/2016",
+        "Description": "Sunny",
+        "MorningLow": "26",
+        "DaytimeHigh": "35",
+        "ProbabilityOfPrecipiation": "0%"
+      },
+      {
+        "Date": "18/10/2016",
+        "Description": "Rainy",
+        "MorningLow": "9",
+        "DaytimeHigh": "15",
+        "ProbabilityOfPrecipiation": "90%"
+      },
+      {
+        "Date": "17/10/2016",
+        "Description": "Rainy",
+        "MorningLow": "11",
+        "DaytimeHigh": "16",
+        "ProbabilityOfPrecipiation": "50%"
+      },
+      {
+        "Date": "16/10/2016",
+        "Description": "cloudy",
+        "MorningLow": "13",
+        "DaytimeHigh": "19",
+        "ProbabilityOfPrecipiation": "25%"
+      },
+      {
+        "Date": "15/10/2016",
+        "Description": "cloudy",
+        "MorningLow": "12",
+        "DaytimeHigh": "18",
+        "ProbabilityOfPrecipiation": "30%"
+      },
+      {
+        "Date": "14/10/2016",
+        "Description": "Sunny",
+        "MorningLow": "23",
+        "DaytimeHigh": "31",
+        "ProbabilityOfPrecipiation": "0%"
+      }
+    ]
+  },
+  {
+    "ZipCode": "94203",
+    "Temperature": "19",
+    "Wind": "40 km/h",
+    "RelativeHumidity": "72%",
+    "WeeklyForecast": [
+      {
+        "Date": "20/10/2016",
+        "Description": "Sunny",
+        "MorningLow": "22",
+        "DaytimeHigh": "30",
+        "ProbabilityOfPrecipiation": "0%"
+      },
+      {
+        "Date": "19/10/2016",
+        "Description": "Sunny",
+        "MorningLow": "26",
+        "DaytimeHigh": "35",
+        "ProbabilityOfPrecipiation": "0%"
+      },
+      {
+        "Date": "18/10/2016",
+        "Description": "Rainy",
+        "MorningLow": "9",
+        "DaytimeHigh": "15",
+        "ProbabilityOfPrecipiation": "90%"
+      },
+      {
+        "Date": "17/10/2016",
+        "Description": "Rainy",
+        "MorningLow": "11",
+        "DaytimeHigh": "16",
+        "ProbabilityOfPrecipiation": "50%"
+      },
+      {
+        "Date": "16/10/2016",
+        "Description": "cloudy",
+        "MorningLow": "13",
+        "DaytimeHigh": "19",
+        "ProbabilityOfPrecipiation": "25%"
+      },
+      {
+        "Date": "15/10/2016",
+        "Description": "cloudy",
+        "MorningLow": "12",
+        "DaytimeHigh": "18",
+        "ProbabilityOfPrecipiation": "30%"
+      },
+      {
+        "Date": "14/10/2016",
+        "Description": "Sunny",
+        "MorningLow": "23",
+        "DaytimeHigh": "31",
+        "ProbabilityOfPrecipiation": "0%"
+      }
+    ]
+  },
+  {
+    "ZipCode": "80201",
+    "Temperature": "19",
+    "Wind": "5 km/h",
+    "RelativeHumidity": "10%",
+    "WeeklyForecast": [
+      {
+        "Date": "20/10/2016",
+        "Description": "Sunny",
+        "MorningLow": "22",
+        "DaytimeHigh": "30",
+        "ProbabilityOfPrecipiation": "0%"
+      },
+      {
+        "Date": "19/10/2016",
+        "Description": "Sunny",
+        "MorningLow": "26",
+        "DaytimeHigh": "35",
+        "ProbabilityOfPrecipiation": "0%"
+      },
+      {
+        "Date": "18/10/2016",
+        "Description": "Rainy",
+        "MorningLow": "9",
+        "DaytimeHigh": "15",
+        "ProbabilityOfPrecipiation": "90%"
+      },
+      {
+        "Date": "17/10/2016",
+        "Description": "Rainy",
+        "MorningLow": "11",
+        "DaytimeHigh": "16",
+        "ProbabilityOfPrecipiation": "50%"
+      },
+      {
+        "Date": "16/10/2016",
+        "Description": "cloudy",
+        "MorningLow": "13",
+        "DaytimeHigh": "19",
+        "ProbabilityOfPrecipiation": "25%"
+      },
+      {
+        "Date": "15/10/2016",
+        "Description": "cloudy",
+        "MorningLow": "12",
+        "DaytimeHigh": "18",
+        "ProbabilityOfPrecipiation": "30%"
+      },
+      {
+        "Date": "14/10/2016",
+        "Description": "Sunny",
+        "MorningLow": "23",
+        "DaytimeHigh": "31",
+        "ProbabilityOfPrecipiation": "0%"
+      }
+    ]
+  },
+  {
+    "ZipCode": "6101",
+    "Temperature": "19",
+    "Wind": "4 km/h",
+    "RelativeHumidity": "5%",
+    "WeeklyForecast": [
+      {
+        "Date": "20/10/2016",
+        "Description": "Sunny",
+        "MorningLow": "22",
+        "DaytimeHigh": "30",
+        "ProbabilityOfPrecipiation": "0%"
+      },
+      {
+        "Date": "19/10/2016",
+        "Description": "Sunny",
+        "MorningLow": "26",
+        "DaytimeHigh": "35",
+        "ProbabilityOfPrecipiation": "0%"
+      },
+      {
+        "Date": "18/10/2016",
+        "Description": "Rainy",
+        "MorningLow": "9",
+        "DaytimeHigh": "15",
+        "ProbabilityOfPrecipiation": "90%"
+      },
+      {
+        "Date": "17/10/2016",
+        "Description": "Rainy",
+        "MorningLow": "11",
+        "DaytimeHigh": "16",
+        "ProbabilityOfPrecipiation": "50%"
+      },
+      {
+        "Date": "16/10/2016",
+        "Description": "cloudy",
+        "MorningLow": "13",
+        "DaytimeHigh": "19",
+        "ProbabilityOfPrecipiation": "25%"
+      },
+      {
+        "Date": "15/10/2016",
+        "Description": "cloudy",
+        "MorningLow": "12",
+        "DaytimeHigh": "18",
+        "ProbabilityOfPrecipiation": "30%"
+      },
+      {
+        "Date": "14/10/2016",
+        "Description": "Sunny",
+        "MorningLow": "23",
+        "DaytimeHigh": "31",
+        "ProbabilityOfPrecipiation": "0%"
+      }
+    ]
+  },
+  {
+    "ZipCode": "19901",
+    "Temperature": "19",
+    "Wind": "11 km/h",
+    "RelativeHumidity": "21%",
+    "WeeklyForecast": [
+      {
+        "Date": "20/10/2016",
+        "Description": "Sunny",
+        "MorningLow": "22",
+        "DaytimeHigh": "30",
+        "ProbabilityOfPrecipiation": "0%"
+      },
+      {
+        "Date": "19/10/2016",
+        "Description": "Sunny",
+        "MorningLow": "26",
+        "DaytimeHigh": "35",
+        "ProbabilityOfPrecipiation": "0%"
+      },
+      {
+        "Date": "18/10/2016",
+        "Description": "Rainy",
+        "MorningLow": "9",
+        "DaytimeHigh": "15",
+        "ProbabilityOfPrecipiation": "90%"
+      },
+      {
+        "Date": "17/10/2016",
+        "Description": "Rainy",
+        "MorningLow": "11",
+        "DaytimeHigh": "16",
+        "ProbabilityOfPrecipiation": "50%"
+      },
+      {
+        "Date": "16/10/2016",
+        "Description": "cloudy",
+        "MorningLow": "13",
+        "DaytimeHigh": "19",
+        "ProbabilityOfPrecipiation": "25%"
+      },
+      {
+        "Date": "15/10/2016",
+        "Description": "cloudy",
+        "MorningLow": "12",
+        "DaytimeHigh": "18",
+        "ProbabilityOfPrecipiation": "30%"
+      },
+      {
+        "Date": "14/10/2016",
+        "Description": "Sunny",
+        "MorningLow": "23",
+        "DaytimeHigh": "31",
+        "ProbabilityOfPrecipiation": "0%"
+      }
+    ]
+  },
+  {
+    "ZipCode": "32301",
+    "Temperature": "19",
+    "Wind": "17 km/h",
+    "RelativeHumidity": "55%",
+    "WeeklyForecast": [
+      {
+        "Date": "20/10/2016",
+        "Description": "Sunny",
+        "MorningLow": "22",
+        "DaytimeHigh": "30",
+        "ProbabilityOfPrecipiation": "0%"
+      },
+      {
+        "Date": "19/10/2016",
+        "Description": "Sunny",
+        "MorningLow": "26",
+        "DaytimeHigh": "35",
+        "ProbabilityOfPrecipiation": "0%"
+      },
+      {
+        "Date": "18/10/2016",
+        "Description": "Rainy",
+        "MorningLow": "9",
+        "DaytimeHigh": "15",
+        "ProbabilityOfPrecipiation": "90%"
+      },
+      {
+        "Date": "17/10/2016",
+        "Description": "Rainy",
+        "MorningLow": "11",
+        "DaytimeHigh": "16",
+        "ProbabilityOfPrecipiation": "50%"
+      },
+      {
+        "Date": "16/10/2016",
+        "Description": "cloudy",
+        "MorningLow": "13",
+        "DaytimeHigh": "19",
+        "ProbabilityOfPrecipiation": "25%"
+      },
+      {
+        "Date": "15/10/2016",
+        "Description": "cloudy",
+        "MorningLow": "12",
+        "DaytimeHigh": "18",
+        "ProbabilityOfPrecipiation": "30%"
+      },
+      {
+        "Date": "14/10/2016",
+        "Description": "Sunny",
+        "MorningLow": "23",
+        "DaytimeHigh": "31",
+        "ProbabilityOfPrecipiation": "0%"
+      }
+    ]
+  },
+  {
+    "ZipCode": "30301",
+    "Temperature": "19",
+    "Wind": "28 km/h",
+    "RelativeHumidity": "77%",
+    "WeeklyForecast": [
+      {
+        "Date": "20/10/2016",
+        "Description": "Sunny",
+        "MorningLow": "22",
+        "DaytimeHigh": "30",
+        "ProbabilityOfPrecipiation": "0%"
+      },
+      {
+        "Date": "19/10/2016",
+        "Description": "Sunny",
+        "MorningLow": "26",
+        "DaytimeHigh": "35",
+        "ProbabilityOfPrecipiation": "0%"
+      },
+      {
+        "Date": "18/10/2016",
+        "Description": "Rainy",
+        "MorningLow": "9",
+        "DaytimeHigh": "15",
+        "ProbabilityOfPrecipiation": "90%"
+      },
+      {
+        "Date": "17/10/2016",
+        "Description": "Rainy",
+        "MorningLow": "11",
+        "DaytimeHigh": "16",
+        "ProbabilityOfPrecipiation": "50%"
+      },
+      {
+        "Date": "16/10/2016",
+        "Description": "cloudy",
+        "MorningLow": "13",
+        "DaytimeHigh": "19",
+        "ProbabilityOfPrecipiation": "25%"
+      },
+      {
+        "Date": "15/10/2016",
+        "Description": "cloudy",
+        "MorningLow": "12",
+        "DaytimeHigh": "18",
+        "ProbabilityOfPrecipiation": "30%"
+      },
+      {
+        "Date": "14/10/2016",
+        "Description": "Sunny",
+        "MorningLow": "23",
+        "DaytimeHigh": "31",
+        "ProbabilityOfPrecipiation": "0%"
+      }
+    ]
+  },
+  {
+    "ZipCode": "96801",
+    "Temperature": "19",
+    "Wind": "70 km/h",
+    "RelativeHumidity": "99%",
+    "WeeklyForecast": [
+      {
+        "Date": "20/10/2016",
+        "Description": "Sunny",
+        "MorningLow": "22",
+        "DaytimeHigh": "30",
+        "ProbabilityOfPrecipiation": "0%"
+      },
+      {
+        "Date": "19/10/2016",
+        "Description": "Sunny",
+        "MorningLow": "26",
+        "DaytimeHigh": "35",
+        "ProbabilityOfPrecipiation": "0%"
+      },
+      {
+        "Date": "18/10/2016",
+        "Description": "Rainy",
+        "MorningLow": "9",
+        "DaytimeHigh": "15",
+        "ProbabilityOfPrecipiation": "90%"
+      },
+      {
+        "Date": "17/10/2016",
+        "Description": "Rainy",
+        "MorningLow": "11",
+        "DaytimeHigh": "16",
+        "ProbabilityOfPrecipiation": "50%"
+      },
+      {
+        "Date": "16/10/2016",
+        "Description": "cloudy",
+        "MorningLow": "13",
+        "DaytimeHigh": "19",
+        "ProbabilityOfPrecipiation": "25%"
+      },
+      {
+        "Date": "15/10/2016",
+        "Description": "cloudy",
+        "MorningLow": "12",
+        "DaytimeHigh": "18",
+        "ProbabilityOfPrecipiation": "30%"
+      },
+      {
+        "Date": "14/10/2016",
+        "Description": "Sunny",
+        "MorningLow": "23",
+        "DaytimeHigh": "31",
+        "ProbabilityOfPrecipiation": "0%"
+      }
+    ]
+  },
+  {
+    "ZipCode": "83701",
+    "Temperature": "19",
+    "Wind": "54 km/h",
+    "RelativeHumidity": "84%",
+    "WeeklyForecast": [
+      {
+        "Date": "20/10/2016",
+        "Description": "Sunny",
+        "MorningLow": "22",
+        "DaytimeHigh": "30",
+        "ProbabilityOfPrecipiation": "0%"
+      },
+      {
+        "Date": "19/10/2016",
+        "Description": "Sunny",
+        "MorningLow": "26",
+        "DaytimeHigh": "35",
+        "ProbabilityOfPrecipiation": "0%"
+      },
+      {
+        "Date": "18/10/2016",
+        "Description": "Rainy",
+        "MorningLow": "9",
+        "DaytimeHigh": "15",
+        "ProbabilityOfPrecipiation": "90%"
+      },
+      {
+        "Date": "17/10/2016",
+        "Description": "Rainy",
+        "MorningLow": "11",
+        "DaytimeHigh": "16",
+        "ProbabilityOfPrecipiation": "50%"
+      },
+      {
+        "Date": "16/10/2016",
+        "Description": "cloudy",
+        "MorningLow": "13",
+        "DaytimeHigh": "19",
+        "ProbabilityOfPrecipiation": "25%"
+      },
+      {
+        "Date": "15/10/2016",
+        "Description": "cloudy",
+        "MorningLow": "12",
+        "DaytimeHigh": "18",
+        "ProbabilityOfPrecipiation": "30%"
+      },
+      {
+        "Date": "14/10/2016",
+        "Description": "Sunny",
+        "MorningLow": "23",
+        "DaytimeHigh": "31",
+        "ProbabilityOfPrecipiation": "0%"
+      }
+    ]
+  },
+  {
+    "ZipCode": "62701",
+    "Temperature": "19",
+    "Wind": "26 km/h",
+    "RelativeHumidity": "38%",
+    "WeeklyForecast": [
+      {
+        "Date": "20/10/2016",
+        "Description": "Sunny",
+        "MorningLow": "22",
+        "DaytimeHigh": "30",
+        "ProbabilityOfPrecipiation": "0%"
+      },
+      {
+        "Date": "19/10/2016",
+        "Description": "Sunny",
+        "MorningLow": "26",
+        "DaytimeHigh": "35",
+        "ProbabilityOfPrecipiation": "0%"
+      },
+      {
+        "Date": "18/10/2016",
+        "Description": "Rainy",
+        "MorningLow": "9",
+        "DaytimeHigh": "15",
+        "ProbabilityOfPrecipiation": "90%"
+      },
+      {
+        "Date": "17/10/2016",
+        "Description": "Rainy",
+        "MorningLow": "11",
+        "DaytimeHigh": "16",
+        "ProbabilityOfPrecipiation": "50%"
+      },
+      {
+        "Date": "16/10/2016",
+        "Description": "cloudy",
+        "MorningLow": "13",
+        "DaytimeHigh": "19",
+        "ProbabilityOfPrecipiation": "25%"
+      },
+      {
+        "Date": "15/10/2016",
+        "Description": "cloudy",
+        "MorningLow": "12",
+        "DaytimeHigh": "18",
+        "ProbabilityOfPrecipiation": "30%"
+      },
+      {
+        "Date": "14/10/2016",
+        "Description": "Sunny",
+        "MorningLow": "23",
+        "DaytimeHigh": "31",
+        "ProbabilityOfPrecipiation": "0%"
+      }
+    ]
+  },
+  {
+    "ZipCode": "70801",
+    "Temperature": "19",
+    "Wind": "42 km/h",
+    "RelativeHumidity": "29%",
+    "WeeklyForecast": [
+      {
+        "Date": "20/10/2016",
+        "Description": "Sunny",
+        "MorningLow": "22",
+        "DaytimeHigh": "30",
+        "ProbabilityOfPrecipiation": "0%"
+      },
+      {
+        "Date": "19/10/2016",
+        "Description": "Sunny",
+        "MorningLow": "26",
+        "DaytimeHigh": "35",
+        "ProbabilityOfPrecipiation": "0%"
+      },
+      {
+        "Date": "18/10/2016",
+        "Description": "Rainy",
+        "MorningLow": "9",
+        "DaytimeHigh": "15",
+        "ProbabilityOfPrecipiation": "90%"
+      },
+      {
+        "Date": "17/10/2016",
+        "Description": "Rainy",
+        "MorningLow": "11",
+        "DaytimeHigh": "16",
+        "ProbabilityOfPrecipiation": "50%"
+      },
+      {
+        "Date": "16/10/2016",
+        "Description": "cloudy",
+        "MorningLow": "13",
+        "DaytimeHigh": "19",
+        "ProbabilityOfPrecipiation": "25%"
+      },
+      {
+        "Date": "15/10/2016",
+        "Description": "cloudy",
+        "MorningLow": "12",
+        "DaytimeHigh": "18",
+        "ProbabilityOfPrecipiation": "30%"
+      },
+      {
+        "Date": "14/10/2016",
+        "Description": "Sunny",
+        "MorningLow": "23",
+        "DaytimeHigh": "31",
+        "ProbabilityOfPrecipiation": "0%"
+      }
+    ]
+  },
+  {
+    "ZipCode": "48901",
+    "Temperature": "19",
+    "Wind": "30 km/h",
+    "RelativeHumidity": "19%",
+    "WeeklyForecast": [
+      {
+        "Date": "20/10/2016",
+        "Description": "Sunny",
+        "MorningLow": "22",
+        "DaytimeHigh": "30",
+        "ProbabilityOfPrecipiation": "0%"
+      },
+      {
+        "Date": "19/10/2016",
+        "Description": "Sunny",
+        "MorningLow": "26",
+        "DaytimeHigh": "35",
+        "ProbabilityOfPrecipiation": "0%"
+      },
+      {
+        "Date": "18/10/2016",
+        "Description": "Rainy",
+        "MorningLow": "9",
+        "DaytimeHigh": "15",
+        "ProbabilityOfPrecipiation": "90%"
+      },
+      {
+        "Date": "17/10/2016",
+        "Description": "Rainy",
+        "MorningLow": "11",
+        "DaytimeHigh": "16",
+        "ProbabilityOfPrecipiation": "50%"
+      },
+      {
+        "Date": "16/10/2016",
+        "Description": "cloudy",
+        "MorningLow": "13",
+        "DaytimeHigh": "19",
+        "ProbabilityOfPrecipiation": "25%"
+      },
+      {
+        "Date": "15/10/2016",
+        "Description": "cloudy",
+        "MorningLow": "12",
+        "DaytimeHigh": "18",
+        "ProbabilityOfPrecipiation": "30%"
+      },
+      {
+        "Date": "14/10/2016",
+        "Description": "Sunny",
+        "MorningLow": "23",
+        "DaytimeHigh": "31",
+        "ProbabilityOfPrecipiation": "0%"
+      }
+    ]
+  }
+]

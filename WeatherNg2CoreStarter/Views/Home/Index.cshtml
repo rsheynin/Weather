@@ -1,0 +1,14 @@
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+@*<script src="https://www.gstatic.com/charts/loader.js"></script>*@
+@*<script type="text/javascript" src="https://www.google.com/jsapi"></script>*@
+<app asp-prerender-module="ClientApp/dist/main-server">Loading...</app>
+
+<script src="~/dist/vendor.js" asp-append-version="true"></script>
+@section scripts {
+    <script src="~/dist/main-client.js" asp-append-version="true"></script>
+    <script src="~/dist/Utility.js" asp-append-version="true"></script>
+}

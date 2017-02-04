@@ -1,0 +1,10 @@
+
+    <div class="weeklyForecastGraphBtns" >
+        <div class="{{tempBtn}}" style="display: inline-block" (click)="GetGraphByType('Temperature')">Temperature</div>
+        <div class="{{precipBtn}}" style="display: inline-block" (click)="GetGraphByType('Precipitation')">Precipitation</div>
+        <div class="{{windBtn}}" style="display: inline-block" (click)="GetGraphByType('Wind')">Wind</div>
+    </div>
+
+
+    <weatherchart [weather]="weather"             
+                  [temperatureUnit]="temperatureUnit"></weatherchart>

@@ -1,0 +1,12 @@
+<div *ngIf="weather">
+    <div class="weeklyforecast" 
+         *ngFor="let forecast of weather.weeklyForecast; let i = index">
+        <weeklydayforecast [forecast]="forecast"  
+                           [isSelectedForcast]="isSelectedForcast(i)" 
+                           [temperatureUnit]="temperatureUnit"                         
+                           (click)="SelectForcast(i)">
+        </weeklydayforecast>
+    </div>
+</div>
+
+

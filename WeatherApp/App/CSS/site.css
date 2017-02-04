@@ -1,0 +1,119 @@
+﻿ body .weather{
+            color: darkgray;
+        }
+
+        .row {
+            float: left;
+            margin: 0;
+        }
+
+        .weather {
+            width: 430px; 
+            height: 590px;
+            box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.16), 0 0 0 1px rgba(0, 0, 0, 0.08);
+            padding: 15px;
+            /*border-color: blue;
+            border-style: solid;*/
+        }
+         .weeklyforecast {
+             float: left;
+             margin: 0;
+             width: 413px;
+         }
+        .weekDayForecast {
+            width: 59px;
+            float: left;
+        }
+
+        .temperature {
+            font-size: 26pt;
+            width: 30px;
+            height: 30px;
+            float: left;
+            padding: 13px 1px;
+        }
+
+        .temperatureAndImage {
+            width: 160px;
+        }
+
+        .ksb.ksbs, .ksb.ksbs:hover {
+            background-color: #eee;
+            background-image: -webkit-gradient(linear,left top,left bottom,from(#eee),to(#e0e0e0));
+            background-image: -webkit-linear-gradient(top,#eee,#e0e0e0);
+            background-image: linear-gradient(top,#eee,#e0e0e0);
+            border: 1px solid #ccc;
+            -webkit-box-shadow: inset 0 1px 2px rgba(0,0,0,0.1);
+            box-shadow: inset 0 1px 2px rgba(0,0,0,0.1);
+            color: #222;
+            margin: 0;
+        }
+
+        .cpbb, .kpbb, .kprb, .kpgb, .kpgrb, .ksb {
+            -webkit-border-radius: 2px;
+            border-radius: 2px;
+            cursor: default;
+            font-family: arial,sans-serif;
+            font-size: 11px;
+            font-weight: bold;
+            height: 27px;
+            line-height: 27px;
+            margin: 2px 0;
+            min-width: 54px;
+            padding: 0 8px;
+            text-align: center;
+            -webkit-transition: all 0.218s,visibility 0s;
+            transition: all 0.218s,visibility 0s;
+            -webkit-user-select: none;
+        }
+
+
+
+            .ksb:hover {
+                background-color: #f8f8f8;
+                background-image: -webkit-gradient(linear,left top,left bottom,from(#f8f8f8),to(#f1f1f1));
+                background-image: -webkit-linear-gradient(top,#f8f8f8,#f1f1f1);
+                background-image: linear-gradient(top,#f8f8f8,#f1f1f1);
+                border: 1px solid #c6c6c6;
+                color: #222;
+            }
+
+            .cpbb:hover, .kpbb:hover, .kprb:hover, .kpgb:hover, .kpgrb:hover, .ksb:hover {
+                -webkit-box-shadow: 0 1px 1px rgba(0,0,0,0.1);
+                box-shadow: 0 1px 1px rgba(0,0,0,0.1);
+                -webkit-transition: all 0.0s;
+                transition: all 0.0s;
+            }
+
+        ._oMb {
+            margin-left: -1px;
+            -webkit-border-bottom-left-radius: 0;
+            -webkit-border-top-left-radius: 0;
+        }
+
+        ._pMb {
+            margin-right: 0;
+            -webkit-border-top-right-radius: 0;
+            -webkit-border-bottom-right-radius: 0;
+        }
+
+        ._oMb, ._pMb {
+            z-index: 1;
+            -webkit-transition: none;
+        }
+
+        ._oMb {
+            margin-left: -1px;
+            -webkit-border-bottom-left-radius: 0;
+            -webkit-border-top-left-radius: 0;
+        }
+
+        .ksb {
+            background-color: #f5f5f5;
+            background-image: -webkit-gradient(linear,left top,left bottom,from(#f5f5f5),to(#f1f1f1));
+            background-image: -webkit-linear-gradient(top,#f5f5f5,#f1f1f1);
+            background-image: linear-gradient(top,#f5f5f5,#f1f1f1);
+            border: 1px solid #dcdcdc;
+            border: 1px solid rgba(0,0,0,0.1);
+            color: #444;
+        }

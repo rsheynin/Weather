@@ -1,0 +1,10 @@
+
+
+<div class="weekDayForecast" *ngIf="forecast" [ngClass]="{'selected': isSelectedForcast }">
+    <span class="row" style="text-align: center; width: 100%">{{GetWeekDay(forecast.date)}}</span>
+    <img  alt="{{forecast.description}}"
+         src="//ssl.gstatic.com/onebox/weather/48/{{GetImageName(forecast.description)}}.png">
+    <span class="row" style="text-align: center; width: 100%">{{GetTemperatureByUnit(forecast.morningLow)}} {{GetTemperatureByUnit(forecast.daytimeHigh)}}</span>
+</div>
+
+

@@ -1,0 +1,9 @@
+﻿
+<div style="height: 23px; overflow: hidden; padding: 15px 0 9px">
+    <div ng-class="$ctrl.tempBtn" style="display: inline-block" ng-click="$ctrl.GetGraphByType('Temperature')">Temperature</div>
+    <div ng-class="$ctrl.precipBtn" style="display: inline-block" ng-click="$ctrl.GetGraphByType('Precipitation')">Precipitation</div>
+    <div ng-class="$ctrl.windBtn"  style="display: inline-block" ng-click="$ctrl.GetGraphByType('Wind')">Wind</div>
+</div>
+
+
+<linechart id="linechart" xkey="xkey" ykeys="ykeys" linecolors="lineColors" labels="labels" data="weeklyforecast"></linechart>
